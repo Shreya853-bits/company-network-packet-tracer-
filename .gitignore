@@ -1,0 +1,19 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and temporary output
+*.log
+*.tmp
+*.bak
+
+# Keep Packet Tracer project files versionable.
+# Do not ignore *.pkt; the final lab file belongs in this repo.
+
